@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Personal Information</title>
+<style>
+body {
+    background-color: pink;
+}
+
+h1{
+    color: yellow;
+}
+
+p {
+    color: blue;
+}
+</style>
+</head>
+<body>
+<h1>My name is Mir Ali Akbar</h1>
+<p> I'm an author. I love cooking and helping others. I'm a really trust-worthy friend and honest one too.</p>
+</body>
+</html>
